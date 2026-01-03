@@ -92,7 +92,7 @@ repita
    escreval("[1] Mostrar a Matriz")
    escreval("[2] Diagonal Principal")
    escreval("[3] Triangulo Superior")
-   escreval("[4] Trigangulo Inferior")
+   escreval("[4] Triangulo Inferior")
    escreval("[5] Sair")
    escreva("|=======| OPÇÂO: ")
    leia(r)
